@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(May 30th, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Emily Knapik)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I learned how to use GIT commands and also GITHub. I also learned all about version control, different types of repositories, and all about GIT commands and what they are used for.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson I learned about Version Control and that it helps a team manage a source code and all of it's changes over time.)
+2. (In this lesson I learned about how a Remote Repository is a type of server that is most commonly used among several members.)
+3. (In this lesson I learned that Local Repositories are different than Remote Repositories in the way that they are used only by one individual user.)
 
